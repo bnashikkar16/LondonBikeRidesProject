@@ -1,4 +1,4 @@
-# London_Bike_Rides_Project
+# LondonBikeRidesProject
 
 1. Programmatically gather Data
 
